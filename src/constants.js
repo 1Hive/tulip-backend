@@ -29,12 +29,12 @@ module.exports = {
   },
 
   tokenLists: {
-    honeyswap: 'https://unpkg.com/@1hive/default-token-list@latest/build/honeyswap-default.tokenlist.json',
+    honeyswap: 'https://ipfs.cf-ipfs.com/ipns/tokens.honeyswap.org/',
     quickswap: 'https://unpkg.com/quickswap-default-token-list@1.0.60/build/quickswap-default.tokenlist.json'
   },
 
   rpcEndpoints: {
-    100: 'https://dai.poa.network',
+    100: 'https://rpc.xdaichain.com/',
     137: 'https://matic-mainnet-full-rpc.bwarelabs.com'
   },
 
