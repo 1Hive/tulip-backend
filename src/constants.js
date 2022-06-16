@@ -34,7 +34,7 @@ module.exports = {
   },
 
   rpcEndpoints: {
-    100: 'https://dai.poa.network',
+    100: 'https://rpc.gnosischain.com',
     137: 'https://matic-mainnet-full-rpc.bwarelabs.com'
   },
 
